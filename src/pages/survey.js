@@ -8,14 +8,14 @@ import fbEvent from '../services/fbEvents';
 import Image from 'next/image';
 import { motion, AnimatePresence } from 'framer-motion';
 
-import i01 from '../../public/survey/01.png';
-import i02 from '../../public/landing/002.png';
-import i03 from '../../public/landing/003.png';
-import i04 from '../../public/landing/012.png';
-import i05 from '../../public/landing/006.png';
-import paola from '../../public/landing/paola.png';
-import eduardo from '../../public/landing/eduardo.png';
-import alejandro from '../../public/landing/alejandro.png';
+import i01 from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import i02 from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import i03 from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import i04 from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import i05 from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import paola from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import eduardo from '../../public/survey/Logo_Alcoholera_Nacional.webp';
+import alejandro from '../../public/survey/Logo_Alcoholera_Nacional.webp';
 import Link from 'next/link';
 
 

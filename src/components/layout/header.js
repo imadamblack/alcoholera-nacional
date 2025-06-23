@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { info } from '../../../info';
 import Image from 'next/image';
-import logo from '../../../public/Logo/Logo_Alcoolera_Nacional.webp';
+import logo from '../../../public/Logo/Logo_Alcoholera_Nacional.webp';
 import { useRouter } from 'next/router';
 
 export default function Header() {
